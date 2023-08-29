@@ -1,5 +1,5 @@
 
-Song Generator is a simple Python program that provides a simple user-friendly interface to generate MIDI songs based on user-selected keys and chord progressions. The tool uses the tkinter library for its GUI components and the midiutil library to create MIDI files.
+MIDImaker is a simple Python program that provides a simple user-friendly interface to generate MIDI songs based on user-selected keys and chord progressions. The tool uses the tkinter library for its GUI components and the midiutil library to create MIDI files.
 
 
 
