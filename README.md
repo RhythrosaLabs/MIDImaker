@@ -3,7 +3,7 @@ MIDImaker is a simple Python program that provides a simple user-friendly interf
 
 
 
-##Features:
+Features:
 
 • Select a Key: Choose from various musical keys for your song.
 
@@ -15,7 +15,7 @@ MIDImaker is a simple Python program that provides a simple user-friendly interf
 
 
 
-##Prerequisites:
+Prerequisites:
 
 Python 3.x
 tkinter library (usually comes bundled with Python)
@@ -23,7 +23,7 @@ midiutil library
 
 
 
-##How to use: 
+How to use: 
 
 1. Run song_generator.py
 
@@ -41,20 +41,20 @@ midiutil library
 
 
 
-##Note:
+Note:
 
 This program uses a predetermined list of song names, chord progressions, and song structures. You can extend or modify these lists as per your requirements.
 
-## Support
+Support
 If you found this helpful and would like to support its development, consider buying me a coffee:
 
 [![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
 
-##Contribution:
+Contribution:
 
 Contributions are welcome! If you have ideas to improve the tool or want to add more features, feel free to make a pull request or open an issue.
 
 
-##License:
+License:
 
 This project is open source and available under the MIT License.
