@@ -45,7 +45,8 @@ Note:
 
 This program uses a predetermined list of song names, chord progressions, and song structures. You can extend or modify these lists as per your requirements.
 
-Support
+Support:
+
 If you found this helpful and would like to support its development, consider buying me a coffee:
 
 [![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
