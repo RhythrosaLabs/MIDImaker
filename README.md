@@ -51,6 +51,8 @@ If you found this helpful and would like to support its development, consider bu
 
 [![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
 
+🌐 [Portfolio: rhythrosalabs.github.io](https://rhythrosalabs.github.io) (more apps, music and sound design)
+
 Contribution:
 
 Contributions are welcome! If you have ideas to improve the tool or want to add more features, feel free to make a pull request or open an issue.
